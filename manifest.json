@@ -1,0 +1,15 @@
+{
+  "kind": "marinara.personal-extension",
+  "version": 1,
+  "config": {
+    "name": "ME Performance Optimizer Unified",
+    "version": "3.0.1",
+    "description": "Unified concurrent GET deduplication, local A/B diagnostics, and enabled-by-default reviewed observer/poll/startup controls. No engine patches or visible overlay.",
+    "runtime": "client",
+    "enabled": false,
+    "capabilities": [
+      "full_page_access"
+    ],
+    "jsPath": "extension.js"
+  }
+}
